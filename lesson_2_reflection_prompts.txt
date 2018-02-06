@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
    The result is getting several commits from one feature added to another branch. because it is more clearer to the user. remember spaces between editors and LF and all of those problems may affect the merging process.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+   well on the good side we can rapidly get the merges for simple things where no one touches the same thing fast, on the other side if there are conflicts they are the only ones who will be brought to attention
+

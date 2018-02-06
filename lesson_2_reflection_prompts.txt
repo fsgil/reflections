@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
     We get a new git directory for version control, but without any commits. If we do not do this then there will be no git repo
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    We get a place where the directory has no additional files for its history and we can choose what to commit, controlling our commit     size. As a side note we get do not pollute the history of the repository in this way.

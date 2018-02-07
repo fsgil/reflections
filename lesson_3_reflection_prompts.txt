@@ -6,4 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
    Mostly because auto-updating could interfere with the writing of the files of a project, and this could cause coherence issues.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+   clones allow us to make copies of repos, branches allow us to experiment while being in the same project, forks are more for the collaboration with people who may not be real part of the project in a way.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+   in helps keeping the an idea of how the branches are diverging because of changes introduced.
